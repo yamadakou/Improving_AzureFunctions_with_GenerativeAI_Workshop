@@ -19,5 +19,3 @@ https://docs.github.com/ja/copilot/how-tos/set-up/set-up-for-self
 
 ### 環境への GitHub Copilot 拡張機能のインストール
 https://docs.github.com/ja/copilot/how-tos/set-up/install-copilot-extension
-<img width="3053" height="823" alt="image" src="https://github.com/user-attachments/assets/749c5282-ba84-403f-b143-06ef5cdec5a6" />
-
