@@ -1,0 +1,1 @@
+BadFunctionsProject を良い設計にリファクタしてください。
